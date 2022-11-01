@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/maor-gornic-00b6b119a/)
 ### Hey there 👋
 
-I’m Maor, a third year student at the University of Toronto specializing in Computer Science. I've been learning to code for over 8 years, and had the chance to work with various different technologies. I am passionate about learning, exploring new projects, cultures, and frameworks. 
+I’m Maor, a fourth year student at the University of Toronto specializing in Computer Science. I've been learning to code for over 8 years, and had the chance to work with various different technologies. I am passionate about learning, exploring new projects, cultures, and frameworks. 
 
 ## 💼 Skills
 
